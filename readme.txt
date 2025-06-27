@@ -1,5 +1,5 @@
 === Coming Soon Mysite ===
-Contributors: shohelplugin931
+Contributors: wpplugindevloper931 
 Donate link: https://buymeacoffee.com/shohelrana
 Tags: coming soon, maintenance mode, under construction, site offline, launch
 Requires at least: 5.2
