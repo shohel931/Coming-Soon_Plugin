@@ -3,7 +3,7 @@
 * Plugin Name: Coming Soon Mysite
 * Plugin URI: https://wordpress.org/plugins/coming-soon-mysite
 * Description: A simple plugin to show coming soon page for visitors.
-* Version: 1.0.0
+* Version: 1.1.0
 * Requires at least: 5.2
 * Requires PHP: 7.2
 * Author: Shohel Rana

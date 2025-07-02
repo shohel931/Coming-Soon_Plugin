@@ -29,7 +29,7 @@ if (
 <body>
     <div class="csms-wrapper">
         <h1>Coming Soon</h1>
-        <p>We're nearing the completion of our site. <br> Subscribe below to stay updated and be informed when we launch!</p>
+        <p>We're nearing the completion of our site. Subscribe below to stay updated and be informed when we launch!</p>
         <form action="" method="post">
             <?php wp_nonce_field('csms_email_action', 'csms_email_nonce'); ?>
             <input type="email" name="csms_email" placeholder="Enter your email" required>

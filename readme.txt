@@ -1,11 +1,10 @@
 === Coming Soon Mysite ===
-Contributors: wpplugindevloper931 
-Donate link: https://buymeacoffee.com/shohelrana
+Contributors: wpplugindevloper931
 Tags: coming soon, maintenance mode, under construction, site offline, launch
 Requires at least: 5.2
 Tested up to: 6.8
 Requires PHP: 7.2
-Stable tag: 1.0.0
+Stable tag: 1.1.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -46,7 +45,7 @@ Yes, you can edit the `coming-soon-template.php` file and the CSS file (`coming-
 
 == Changelog ==
 
-= 1.0.0 =
+= 1.1.0 =
 * Initial stable release
 
 == Upgrade Notice ==
